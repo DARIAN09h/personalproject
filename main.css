@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Moirai+One&display=swap");
+body {
+  background: rgb(18, 18, 185);
+  background: linear-gradient(
+    90deg,
+    rgb(166, 163, 233) 0%,
+    rgb(105, 105, 248) 35%,
+    rgb(154, 210, 221) 100%
+  );
+  font-family: "Moirai One";
+  color: white;
+  font-size: 50px;
+  font-weight: 100;
+  text-decoration: none;
+}
+
+.cat {
+  height: 200px;
+  width: 300px;
+  background-color: rgb(157, 183, 243);
+  border: 10px black dashed;
+}
+.robot {
+    height: 200px;
+    width: 400px;
+    background-color: blueviolet;
+    border:solid 7px blue dashed;
+}
