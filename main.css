@@ -121,7 +121,7 @@ a:active {
 .image {
   display: flex;
   position: relative;
-  background-image: url(/assets/lana.jpg);
+  background-image: url(assets/lana.jpg);
   height: 81%;
   width: 65%;
   transform: translate(-50%, -113%);
@@ -196,7 +196,7 @@ a:active {
 }
 
 .image1 {
-  background-image: url(/assets/bts.jpg);
+  background-image: url(assets/bts.jpg);
   height: 481px;
   width: 750px;
   transform: translate(4%, 0%);
@@ -234,7 +234,7 @@ a:active {
 }
 
 .image2 {
-  background-image: url(/assets/ateez.jpg);
+  background-image: url(assets/ateez.jpg);
   height: 881px;
   width: 736px;
   transform: translate(4%, -10%);
@@ -273,7 +273,7 @@ a:active {
 }
 
 .image3 {
-  background-image: url(/assets/twice.jpg);
+  background-image: url(assets/twice.jpg);
   height: 700px;
   width: 700px;
   transform: translateY(-10%);
@@ -302,7 +302,7 @@ a:active {
 
 .pic1 {
   display: flex;
-  background-image: url(/assets/bangchan.jpg);
+  background-image: url(assets/bangchan.jpg);
   height: 417px;
   width: 710px;
   transform: translate(-20%,40%);
@@ -317,7 +317,7 @@ a:active {
 
 .pic2 {
   display: flex;
-  background-image: url(/assets/hyunjin.jpg);
+  background-image: url(assets/hyunjin.jpg);
   height: 505px;
   width: 859px;
   transform: translate(40%,40%);
@@ -332,7 +332,7 @@ a:active {
 
 .pic3 {
   display: flex;
-  background-image: url(/assets/felix.jpg);
+  background-image: url(assets/felix.jpg);
   height: 732px;
   width: 750px;
   transform: translate(-20%,40%);
@@ -347,7 +347,7 @@ a:active {
 
 .pic4 {
   display: flex;
-  background-image: url(/assets/jeongin.jpg);
+  background-image: url(assets/jeongin.jpg);
   height: 470px;
   width: 735px;
   transform: translate(50%, 80%);
@@ -362,7 +362,7 @@ a:active {
 
 .pic5 {
   display: flex;
-  background-image: url(/assets/han.jpg);
+  background-image: url(assets/han.jpg);
   height: 470px;
   width: 735px;
   transform: translate(-20%, 90%);
@@ -377,7 +377,7 @@ a:active {
 
 .pic6 {
   display: flex;
-  background-image: url(/assets/linos.jpg);
+  background-image: url(assets/linos.jpg);
   height: 470px;
   width: 735px;
   transform: translate(50%, 90%);
@@ -392,7 +392,7 @@ a:active {
 
 .pic7 {
   display: flex;
-  background-image: url(/assets/changbin.jpg);
+  background-image: url(assets/changbin.jpg);
   height: 470px;
   width: 735px;
   transform: translate(-20%, 90%);
@@ -407,7 +407,7 @@ a:active {
 
 .pic8 {
   display: flex;
-  background-image: url(/assets/seungmin.jpg);
+  background-image: url(assets/seungmin.jpg);
   height: 470px;
   width: 735px;
   transform: translate(50%, 90%);
@@ -421,14 +421,14 @@ a:active {
 }
 
 .photo1 {
-  background-image: url(/assets/ginger.jpg);
+  background-image: url(assets/ginger.jpg);
   height: 598px;
   width: 400px;
   border-radius: 50%;
 }
 
 .photo2 {
-  background-image: url(/assets/white.jpg);
+  background-image: url(assets/white.jpg);
   height: 768px;
   width: 1024px;
   border-radius: 50%;
